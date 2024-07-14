@@ -2,7 +2,7 @@ package com.divisas;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import org.apache.http.client.fluent.Request;
+//import org.apache.http.client.fluent.Request;
 
 import java.io.IOException;
 
