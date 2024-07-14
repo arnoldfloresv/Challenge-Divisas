@@ -1,4 +1,4 @@
-package com.example;
+package com.divisas;
 
 public class Currency {
     private String code;
